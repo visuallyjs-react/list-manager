@@ -2,7 +2,7 @@
   "name": "visuallyjs-react-list-manager",
   "description": "The ListManagerPlugin provides a means to manage scrolling lists. As elements are scrolled out of the view, their edges are moved to the list container.",
   "private": true,
-  "version": "1.2.2",
+  "version": "1.2.3",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@visuallyjs/browser-ui-react": "^1.2.2",
+    "@visuallyjs/browser-ui-react": "^1.2.3",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },
